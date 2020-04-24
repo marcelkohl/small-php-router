@@ -1,4 +1,5 @@
 <?php
+
 namespace models;
 
 /**
@@ -19,7 +20,7 @@ class BaseController
     }
 
     /**
-     * recover session and data relevant to the enviroment
+     * recover session and data relevant to the environment
      */
     public function recoverSession()
     {

@@ -1,13 +1,17 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Generic badge](https://img.shields.io/badge/Status-Deprecated-orange.svg)](https://shields.io/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
 # Small PHP Router
 
-The Small PHP Router is a project to give the developer the base resources of routing URLs, like in most great frameworks.
+The Small PHP Router is a project to give the developer the base resources for routing URLs, like in most common frameworks.
 So, the developer can start a project just using the `public` and `app` folders.
 
 This project covers the routing by expecting the first parameter to be the controller of your project and the second as your action in the controller.
 
-Also, it supports views to be renderized automatically together with the actions.
+Also, it supports views to be rendered automatically together with the actions.
 
-## How does it works
+## How does it work
 ### URL
 The Small PHP Router URL is interpreted by the htaccess file as:
 ```html

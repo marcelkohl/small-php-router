@@ -25,7 +25,7 @@ class Sample extends BaseController
 
     /**
      * another action to show info
-     * examplify the use of a view file
+     * exemplify the use of a view file
      */
     public function anotherInfoAction()
     {
